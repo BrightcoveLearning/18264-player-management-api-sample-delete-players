@@ -1,0 +1,1 @@
+# 18264-player-management-api-sample-delete-players
